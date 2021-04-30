@@ -27,19 +27,19 @@ Here are some ideas to get you started:
         <th>RATE of Progress</th>
     </tr>
     <tr>
-        <td>[Convex Optimization(CMU)](https://www.stat.cmu.edu/~ryantibs/convexopt-F18/)</td>
+        <td><a href="https://www.stat.cmu.edu/~ryantibs/convexopt-F18/">Convex Optimization(CMU)</a></td>
         <td>2021.4- </td>
         <td>5</td>
         <td>0%</td>
     </tr>
     <tr>
-        <td>[Discrete Differential Geometry(CMU)](https://brickisland.net/DDGSpring2021/course-description/)</td>
+        <td><a href="https://brickisland.net/DDGSpring2021/course-description/">Discrete Differential Geometry(CMU)</a></td>
         <td>2021.4- </td>
         <td>7</td>
         <td>5%</td>
     </tr>    
     <tr>
-        <td>[Linear Algebra(Review)(MIT)](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)</td>
+        <td><a href="https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/">Linear Algebra(Review)(MIT)]</a></td>
         <td>2021.3- </td>
         <td>3</td>
         <td>40%</td>
@@ -51,7 +51,6 @@ Here are some ideas to get you started:
         <td>0%</td>
     </tr>  
 </table>
-
 - <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=siyuanluo&show_icons=true&theme=radical"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyuanluo&theme=radical&layout=compact" />
