@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - In fact, I'm now working on human 3D reconstruction, if you have something to share or seek for some help, welcome to contact with me :-)
 
 
-- 🌱 I’m currently learning some online courses, and it will be welcomed to contact with me if you'd like to finish the homework or finish the lab by supervise each other.
+- 🌱 I’m currently learning some online courses, and it will be welcomed to contact with me if you'd like to finish the homework or finish the lab by supervising each other.
 - 📫 How to reach me: 312700@stu.xjtu.edu.cn
 - ✅Here is my learning list:
 - <table border="1">
