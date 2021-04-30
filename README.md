@@ -51,7 +51,7 @@ Here are some ideas to get you started:
         <td>0%</td>
     </tr>  
 </table>
-- <p>
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=siyuanluo&show_icons=true&theme=radical"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyuanluo&theme=radical&layout=compact" />
 </p>
