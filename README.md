@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning some online courses, and it will be welcomed to contact with me if you'd like to finish the homework or finish the lab by supervise each other.
 - 📫 How to reach me: 312700@stu.xjtu.edu.cn- 
-Here is my learning list:
-| Course | Time | Difficulty(1-10) | RATE of Progress |
-| -------- | -------------------------------------- | ---------------- | ---------------- |
-| [Convex Optimization(CMU)](https://www.stat.cmu.edu/~ryantibs/convexopt-F18/) | 2021.4 - | 5 | 0% |
-| [Discrete Differential Geometry(CMU)](https://brickisland.net/DDGSpring2021/course-description/)   | 2021.4 - | 7 | 5% |
-| [Linear Algebra(Review)(MIT)](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)   | 2021.3 - | 3 | 40% |
-| Deep Learning(Coursera by Andrew Ng) | 2021.5 - | 5 | 0% |
+- ✅Here is my learning list:
+- | Course | Time | Difficulty(1-10) | RATE of Progress |
+- | -------- | -------------------------------------- | ---------------- | ---------------- |
+- | [Convex Optimization(CMU)](https://www.stat.cmu.edu/~ryantibs/convexopt-F18/) | 2021.4 - | 5 | 0% |
+- | [Discrete Differential Geometry(CMU)](https://brickisland.net/DDGSpring2021/course-description/)   | 2021.4 - | 7 | 5% |
+- | [Linear Algebra(Review)(MIT)](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)   | 2021.3 - | 3 | 40% |
+- | Deep Learning(Coursera by Andrew Ng) | 2021.5 - | 5 | 0% |
 - <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=siyuanluo&show_icons=true&theme=radical"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyuanluo&theme=radical&layout=compact" />
