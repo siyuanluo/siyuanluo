@@ -30,13 +30,13 @@ Here are some ideas to get you started:
         <td><a href="https://www.stat.cmu.edu/~ryantibs/convexopt-F18/">Convex Optimization(CMU)</a></td>
         <td>2021.4- </td>
         <td>5</td>
-        <td>0%</td>
+        <td>10%</td>
     </tr>
     <tr>
         <td><a href="https://brickisland.net/DDGSpring2021/course-description/">Discrete Differential Geometry(CMU)</a></td>
         <td>2021.4- </td>
         <td>7</td>
-        <td>5%</td>
+        <td>10%</td>
     </tr>    
     <tr>
         <td><a href="https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/">Linear Algebra(Review)(MIT)]</a></td>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
         <td>Deep Learning(Coursera by Andrew Ng)</td>
         <td>2021.5- </td>
         <td>5</td>
-        <td>0%</td>
+        <td>10%</td>
     </tr>  
 </table>
 <p>
