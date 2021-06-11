@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m quite amazing about computer graphics and animation, especially in fluid simulation.
-- In fact, I'm now working on human 3D reconstruction, if you have something to share or seek for some help, welcome to contact with me :-)
+- 🔭 I’m quite amazing about computer graphics and animation, especially in physical simulation.
+- In fact, I'm now working on solid simulation, if you have something to share or seek for some help, welcome to contact with me :-)
 
 
 - 🌱 I’m currently learning some online courses, and it will be welcomed to contact with me if you'd like to finish the homework or finish the lab by supervising each other.
@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 [![GitHub siyuanluo](https://img.shields.io/github/followers/siyuanluo?label=follower%20github&style=flat-square)](https://github.com/siyuanluo)
 
 - Extra: my homepage is building🔨🔨🔨!!! 
-- And you can learn more information about me before Jane. ❤️
+- And you can learn more information about me before August. ❤️
