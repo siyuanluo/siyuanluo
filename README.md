@@ -28,27 +28,27 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td><a href="https://www.stat.cmu.edu/~ryantibs/convexopt-F18/">Convex Optimization(CMU)</a></td>
-        <td>2021.4- </td>
+        <td>2021.4 - 2021.7 </td>
         <td>5</td>
-        <td>10%</td>
+        <td>90%</td>
     </tr>
     <tr>
         <td><a href="https://brickisland.net/DDGSpring2021/course-description/">Discrete Differential Geometry(CMU)</a></td>
-        <td>2021.4- </td>
+        <td>2021.4 - 2021.11</td>
         <td>7</td>
-        <td>10%</td>
+        <td>30%</td>
     </tr>    
     <tr>
         <td><a href="https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/">Linear Algebra(Review)(MIT)]</a></td>
-        <td>2021.3- </td>
+        <td>2021.3 - 2021.8</td>
         <td>3</td>
-        <td>40%</td>
+        <td>80%</td>
     </tr> 
       <tr>
         <td>Deep Learning(Coursera by Andrew Ng)</td>
-        <td>2021.5- </td>
+        <td>2021.5 - :-( 😞</td>
         <td>5</td>
-        <td>10%</td>
+        <td>30%</td>
     </tr>  
 </table>
 <p>
