@@ -27,10 +27,10 @@ Here are some ideas to get you started:
         <th>RATE of Progress</th>
     </tr>
     <tr>
-        <td><a href="https://www.stat.cmu.edu/~ryantibs/convexopt-F18/">Convex Optimization(CMU)</a></td>
-        <td>2021.4 - 2021.7 </td>
-        <td>5</td>
-        <td>90%</td>
+        <td><a href="http://csapp.cs.cmu.edu/">Introduction to Computer Systems - "CSAPP"(CMU 15-213)</a></td>
+        <td>2021.7 - 2021.9 </td>
+        <td>6</td>
+        <td>10%</td>
     </tr>
     <tr>
         <td><a href="https://brickisland.net/DDGSpring2021/course-description/">Discrete Differential Geometry(CMU)</a></td>
@@ -44,12 +44,7 @@ Here are some ideas to get you started:
         <td>3</td>
         <td>80%</td>
     </tr> 
-      <tr>
-        <td>Deep Learning(Coursera by Andrew Ng)</td>
-        <td>2021.5 - :-( 😞</td>
-        <td>5</td>
-        <td>30%</td>
-    </tr>  
+      
 </table>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=siyuanluo&show_icons=true&theme=radical"/>
