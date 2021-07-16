@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m quite amazing about computer graphics and animation, especially in physical simulation.
-- In fact, I'm now working on solid simulation, if you have something to share or seek for some help, welcome to contact with me :-)
+- In fact, I'm now working on cloth simulation, if you have something to share or seek for some help, welcome to contact with me :-)
 
 
 - 🌱 I’m currently learning some online courses, and it will be welcomed to contact with me if you'd like to finish the homework or finish the lab by supervising each other.
