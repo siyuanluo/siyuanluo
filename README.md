@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m quite amazing about computer graphics and animation, especially in physical simulation.
 - In fact, I'm now working on cloth simulation, if you have something to share or seek for some help, welcome to contact with me :-)
-- And I'm now working on a item which do implementation for SIGGRAPH paper, and build a knowledge graph for the graphics developing system.[Link Here](https://github.com/GraphicsIndex)
+- And I'm now working on a item which do implementation for SIGGRAPH paper, and build a knowledge graph for the graphics developing system. Add it will finish show you in your web browser.[Link Here](https://github.com/GraphicsIndex)
 
 - 🌱 I’m currently busy with finishing some labs, such as Nand2tetris, UCore Lab(THU)...
 - 🤔 I’m now learning amazing Webgpu, this tech is amazing! 
