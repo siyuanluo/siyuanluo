@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently busy with finishing some labs, such as CMU15-445...
 - 🤔 I’m now learning amazing Webgpu, this tech is amazing! 
 - ⚡ Taichi is an awesome programming language!
-- 📫 How to reach me: 312700@stu.xjtu.edu.cn / And here is my personal blog: [Link is here](http://120.79.138.174:8080/)
+- 📫 How to reach me: luosiyuan2002@gmail.com / And here is my personal blog: [Link is here](http://120.79.138.174:8080/)
 
 
 
