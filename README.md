@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - In fact, I'm now working on cloth simulation, if you have something to share or seek for some help, welcome to contact with me :-)
 - And I'm now working on an item which do implementation for SIGGRAPH paper, and build a knowledge graph for the graphics developing system. Add it will finish show you in your web browser.[Link Here](https://github.com/GraphicsIndex)
 
-- 🌱 I’m currently busy with finishing some labs, such as CMU15-445...
-- 🤔 I’m now learning amazing Webgpu, this tech is amazing! 
-- ⚡ Taichi is an awesome programming language!
-- 📫 How to reach me: luosiyuan2002@gmail.com / And here is my personal blog: [Link is here](http://120.79.138.174:8080/)
-
-
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=siyuanluo&show_icons=true&theme=radical"/>
