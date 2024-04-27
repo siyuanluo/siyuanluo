@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=siyuanluo&show_icons=true&theme=radical"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyuanluo&theme=radical&layout=compact" />
 </p>
 
 [![GitHub siyuanluo](https://img.shields.io/github/followers/siyuanluo?label=follower%20github&style=flat-square)](https://github.com/siyuanluo)
